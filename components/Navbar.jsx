@@ -33,3 +33,7 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
+
+ // provider = "sqlite"
+  // url      = env("DATABASE_URL")
